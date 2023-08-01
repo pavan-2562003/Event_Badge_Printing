@@ -10,6 +10,7 @@
     "UiPath.Presentations.Activities": "[1.11.1]",
     "UiPath.System.Activities": "[23.6.0-preview]",
     "UiPath.UIAutomation.Activities": "[23.6.1-preview]",
+    "UiPath.WebAPI.Activities": "[1.16.2]",
     "UiPath.Word.Activities": "[1.17.0-preview]"
   },
   "webServices": [],
